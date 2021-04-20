@@ -1,0 +1,43 @@
+IT Architecture Frameworks:
+1. TOGAF - The Open Architecture Framework
+2. The Zachman Framework - has become defactor for enterprise architecture artifcats
+3. Federal Enterprise Architectural Framework - US Government
+4. Gartner
+
+TOGAF:
+1. ADM - ADM Guidelines & Techniques
+2. Architecture Content Framework
+3. Reference Models
+4. Enterprise Continuum
+5. Architecture Capability Framework
+
+Zachman:
+1. Logical structure for classifying and designing the artifacts of a enterprise architecture
+2. Classification schemes
+  - Scope
+  - Business Model
+  - System Model
+  - Technology Model
+  - Detailed Representations
+
+Federal Enterprise Architects Framework:
+1. Fedral Government (US)
+
+Modeling/Diargrams:
+1. ArchiMate
+2. C4 Solution Architecture Modeling
+3. UML Modeling
+  - Behavioral Diargrams
+    + Activity
+    + Use Case - one of most common in UML
+    + Interaction Overview
+    + Timing
+    + Communication
+    + Sequence - one of most common in UML
+  - Structural Diargrams
+    + Component - one of most common in UML
+    + Class  - one of most common in UML
+    + Classification
+    + Object
+    + Composite structure+ Package
+    + Profile
