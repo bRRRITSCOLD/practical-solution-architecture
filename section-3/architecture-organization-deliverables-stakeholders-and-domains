@@ -1,0 +1,37 @@
+Typical Enterprise Architecture Organization:
+1. Chief Enterprise Architect ->
+  - Domain Architect (Sales)
+    + Solution Architect
+    + Application Architect
+  - Domain Architect (Finance)
+    + Solution Architect
+    + Application Architect
+  - Domain Architect (Operations)
+    + Cloud Architect
+    + Security Architect
+    + Infrastructure Architect
+
+Typical Deliverables for Architects:
+1. Conceptual Architecture/IT Vision
+2. Sprint Zero Architecture
+3. Solution Architecture
+4. Solution Architecture Best Practices
+
+Typical Stakeholders:
+1. Chief Architect
+2. Domain Architects
+3. Business users
+4. Business Analysts
+5. Project Managers
+6. Scrum Masters
+7. Development Team Managers
+8. Developers
+9. QA Leads
+10. IT Operations
+11. Other Architects
+
+Typical Enterprise Architecture Domains - Solution Architecture touches all of these:
+1. Business Architecture - the people, business functions, processes, locations, etc
+2. Data Architecture
+3. Application Architecture - systems and applications used by business
+4. Technology Architecture - Technology, software, hardware, cloud, etc used to run business, company
