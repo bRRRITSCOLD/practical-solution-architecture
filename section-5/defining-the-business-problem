@@ -1,0 +1,10 @@
+Business Problem
+- Sell existing products of hats online
+- Customer register online before or after adding items to the basket
+- Do not sell items not in stock - check stock system for stock levels
+- Secure login - own username and password, or google or facebook
+- On checkout basket - use secure payment gateway for payment (PayPal or CreditCard)
+- Send automatic emails when order is completed successfully
+- Send order to warehouse manager
+- Integrate solution with delivery company to request a pick up and delivery request
+- on successful delivery, send automatic invoice email
